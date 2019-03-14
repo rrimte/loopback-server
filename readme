@@ -1,0 +1,2 @@
+Small api server to handle rest calls for different type of http methods.
+The server will verify the data
