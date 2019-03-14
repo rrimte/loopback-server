@@ -1,3 +1,0 @@
-"scripts": {
-	  "mock:api": "json-server --watch api/db.json --port 4000"
-}
